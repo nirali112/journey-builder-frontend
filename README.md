@@ -41,7 +41,7 @@ npm install
 npm run dev
 # App runs at http://localhost:5173
 
-Project Structure
+🗂 Project Structure
 
 src/
 ├── components/              # UI components
@@ -58,19 +58,19 @@ src/
 │   └── index.ts
 └── App.tsx                  # Main UI logic
 
-  Tech Stack
+👩‍💻 Tech Stack
 
 React (Vite)
 TypeScript
 Node.js (mock backend)
 Plain CSS-in-JSX
 
-Demo Video
+📹 Demo Video
 Unlisted YouTube Link – https://youtu.be/apW-F1pgyww
 
 This video shows the application in action and a short walkthrough of the key parts of the codebase.
 
-Contact
+📬 Contact
 Submitted by: Nirali Mehta
 Email: niralimehta997@gmail.com
 GitHub: github.com/nirali112
