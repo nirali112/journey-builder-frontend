@@ -23,6 +23,8 @@ This is my submission for the Avantos frontend coding challenge. It implements a
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/journey-builder-frontend.git
+### https://github.com/nirali112/journey-builder-frontend.git
+
 git clone https://github.com/mosaic-avantos/frontendchallengeserver.git
 
 
